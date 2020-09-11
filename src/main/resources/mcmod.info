@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "dev.luaq.chatfilter",
+    "name": "Chat Filter",
+    "description": "Use /chatfilter",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://luaq.dev/",
+    "authorList": [
+      "luaq."
+    ],
+    "dependencies": []
+  }
+]
